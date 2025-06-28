@@ -1,0 +1,174 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "task_1",
+					"jsonFile" : "directory-task_1-Debug-382d698204b41fde951a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "task_1",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "task_2",
+					"jsonFile" : "directory-task_2-Debug-b85d43c23d303afe7cf8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "task_2",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "task_3",
+					"jsonFile" : "directory-task_3-Debug-b641c424816943c87840.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "task_3",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab8",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "task_1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "task_2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "task_3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab8-Debug-419fa3980d83ea4bc8c1.json",
+					"name" : "Lab8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "task_1::@e2897bd661af6caa85bc",
+					"jsonFile" : "target-task_1-Debug-4ae0a4f737a250b58b54.json",
+					"name" : "task_1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "task_2::@c9d38f605fa959f36237",
+					"jsonFile" : "target-task_2-Debug-ba093132935d25164afa.json",
+					"name" : "task_2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "task_3::@f6f7e1980655f695ffb5",
+					"jsonFile" : "target-task_3-Debug-fec69a7cfb2f0dc8f184.json",
+					"name" : "task_3",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/egor6/ProjectC/Programming/Lab8/build",
+		"source" : "C:/Users/egor6/ProjectC/Programming/Lab8"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

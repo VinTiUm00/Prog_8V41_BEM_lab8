@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab8/task_1 -g -std=gnu++17 -o task_1\\CMakeFiles\\task_1.dir\\task.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_1\\task.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_1\\task.cpp",
+  "output": "task_1\\CMakeFiles\\task_1.dir\\task.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab8/task_1 -g -std=gnu++17 -o task_1\\CMakeFiles\\task_1.dir\\main.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_1\\main.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_1\\main.cpp",
+  "output": "task_1\\CMakeFiles\\task_1.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o task_2\\CMakeFiles\\task_2.dir\\task.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_2\\task.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_2\\task.cpp",
+  "output": "task_2\\CMakeFiles\\task_2.dir\\task.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o task_2\\CMakeFiles\\task_2.dir\\main.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_2\\main.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_2\\main.cpp",
+  "output": "task_2\\CMakeFiles\\task_2.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/msys64/mingw64/include/opencv4 -g -std=gnu++17 -o task_3\\CMakeFiles\\task_3.dir\\task.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_3\\task.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_3\\task.cpp",
+  "output": "task_3\\CMakeFiles\\task_3.dir\\task.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/msys64/mingw64/include/opencv4 -g -std=gnu++17 -o task_3\\CMakeFiles\\task_3.dir\\main.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_3\\main.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab8\\task_3\\main.cpp",
+  "output": "task_3\\CMakeFiles\\task_3.dir\\main.cpp.obj"
+}
+]

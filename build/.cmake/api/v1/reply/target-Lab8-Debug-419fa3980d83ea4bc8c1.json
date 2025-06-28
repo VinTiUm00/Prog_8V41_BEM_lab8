@@ -1,0 +1,57 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "task_1::@e2897bd661af6caa85bc"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "task_2::@c9d38f605fa959f36237"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "task_3::@f6f7e1980655f695ffb5"
+		}
+	],
+	"id" : "Lab8::@6890427a1f51a3e7e1df",
+	"name" : "Lab8",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

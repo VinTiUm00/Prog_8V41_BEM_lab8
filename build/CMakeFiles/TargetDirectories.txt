@@ -1,0 +1,12 @@
+C:/Users/egor6/ProjectC/Programming/Lab8/build/CMakeFiles/Lab8.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/CMakeFiles/edit_cache.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/CMakeFiles/rebuild_cache.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_1/CMakeFiles/task_1.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_1/CMakeFiles/edit_cache.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_1/CMakeFiles/rebuild_cache.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_2/CMakeFiles/task_2.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_2/CMakeFiles/edit_cache.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_2/CMakeFiles/rebuild_cache.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_3/CMakeFiles/task_3.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_3/CMakeFiles/edit_cache.dir
+C:/Users/egor6/ProjectC/Programming/Lab8/build/task_3/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v6
+20	426	7728014682452551	task_2/CMakeFiles/task_2.dir/main.cpp.obj	2d247aa88238dcc4
+30	413	7727997986307323	task_1/CMakeFiles/task_1.dir/main.cpp.obj	1950287ee4aa8b8e
+1490	1623	7728016853226969	bin/task_3.exe	153e25f367cefb2a
+12	681	7727988758150919	task_2/CMakeFiles/task_2.dir/task.cpp.obj	bea5aa0ffcdcfe80
+14	470	7728014190526568	task_1/CMakeFiles/task_1.dir/task.cpp.obj	93ba3517ea4cb69b
+426	511	7728014686502437	bin/task_2.exe	4463a66de91dbd6e
+470	555	7728014195086408	bin/task_1.exe	78429c81b89887e7
+28	1473	7728016838614734	task_3/CMakeFiles/task_3.dir/main.cpp.obj	a77025ab9e612ec6
+25	1490	7728016838584427	task_3/CMakeFiles/task_3.dir/task.cpp.obj	8105c70381b2efa5
